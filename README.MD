@@ -55,8 +55,13 @@ If you have any feedback or ideas for MAX, please email us or post an issue in o
 Team 18 Members
 
 ~ Ane Jensen - Mechatronics ,Lead 3D Modeler.
+
 ~ Thakshon Anantharaja - Robotics
+
 ~ Shelton Darvin - Mechatronics
+
 ~ Jaimin Dave - Mechatronics
+
 ~ Lavaya Annathurai - Computer Systems
+
 ~ Marley Hayward - Computer Networks, Programming 
