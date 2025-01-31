@@ -1,5 +1,4 @@
-## README.md
-## Written by Marley Hayward
+##README.md ##Written by Marley Hayward
 ## Mobile Accessibility expert (MAX) Guide Dog
 
 A GitLab repository for all documentation, code, testing notes and progress made on the development of Team 18's project in Module CE201.
