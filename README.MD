@@ -1,5 +1,5 @@
-##README.md
-##Written by Marley Hayward
+## README.md
+## Written by Marley Hayward
 ## Mobile Accessibility expert (MAX) Guide Dog
 
 A GitLab repository for all documentation, code, testing notes and progress made on the development of Team 18's project in Module CE201.
@@ -61,11 +61,3 @@ Team 18 Members
 ~ Jaimin Dave - Mechatronics
 ~ Lavaya Annathurai - Computer Systems
 ~ Marley Hayward - Computer Networks, Programming 
-
-## License
-
-
-## Project status
-12/10/23 - Project is under work.
-13/11/23 - One HC-SR04 Sonar Sensor is working.
-
